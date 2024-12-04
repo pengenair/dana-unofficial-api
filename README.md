@@ -8,13 +8,13 @@ Source code : Yes
 
 Program type : Web - PHP
 
-Features :
-    1.  transfer ke sesama DANA
-    2.  transfer ke Bank
-    3.  mutasi transaksi
-    4.  detail mutasi transaksi
-    5.  profil
-    6.  saldo
+Fitur :
+1.  transfer ke sesama DANA
+2.  transfer ke Bank
+3.  mutasi transaksi
+4.  detail mutasi transaksi
+5.  profil
+6.  saldo
 
 Untuk pertanyaan dan demo hubungi saya di:
 Telegram : [https://t.me/PengenAir](https://t.me/PengenAir)
